@@ -1,5 +1,5 @@
 # mathwiz
-##Contributors:
+## Contributors:
 - Chaitanya Lokhande
 - Shreyas Chandolkar
 - Sangeeta Singh
